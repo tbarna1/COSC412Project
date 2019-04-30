@@ -1,0 +1,26 @@
+.img-fluid {
+  max-width: 75%;
+}
+
+.carousel-caption {
+  position: inherit;
+  color: #333;
+  text-align: left;
+  left: 5%;
+}
+
+.btn-btn-primary1
+{
+  color: rgb(182, 131, 131);
+}
+
+.btn-btn-primary2
+{
+  color: rgb(182, 131, 131);
+}
+
+.btn-btn-primary3
+{
+  color: rgb(182, 131, 131);
+}
+
